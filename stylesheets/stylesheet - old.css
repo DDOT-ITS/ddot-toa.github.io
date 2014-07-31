@@ -73,7 +73,7 @@ header {
 
 header h1 {
   letter-spacing: -1px;
-  font-size: 40px; 
+  font-size: 72px;
   color: #fff;
   line-height: 1;
   margin-bottom: 0.2em;
@@ -254,7 +254,7 @@ form {
 
 #main-content h3 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 28px;
+  font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 8px;
@@ -262,7 +262,7 @@ form {
 } 
  
 #main-content h3:before {
-  content: "";
+  content: "///";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2em;
